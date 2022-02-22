@@ -1,0 +1,10 @@
+.idea/
+.pytest_cache/
+base/
+configfiles/
+reports/
+screenshots/
+testcases/
+testdata/
+utilities/
+venv/
