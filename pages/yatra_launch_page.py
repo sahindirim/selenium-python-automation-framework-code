@@ -10,6 +10,7 @@ from testcases.test_confest import setup
 class LaunchPage():
     def __init__(self,driver):
         self.driver = driver
+        #deneme
 
     #Locators boylece ana sayfada bir daha kullanacak
     DEPART_FROM_FIELD =  "//input[@id='BE_flight_origin_city']"
